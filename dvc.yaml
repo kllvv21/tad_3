@@ -1,0 +1,78 @@
+stages:
+  prepare:
+    cmd: python src/prepare.py
+    deps:
+      - src/prepare.py
+      - src/common.py
+      - data/raw
+    params:
+      - prepare
+    outs:
+      - data/prepared
+    metrics:
+      - reports/data_stats.json:
+          cache: false
+
+  augment:
+    cmd: python src/augment.py
+    deps:
+      - src/augment.py
+      - src/common.py
+      - data/prepared/train.npz
+    params:
+      - base.seed
+      - augment
+    outs:
+      - data/augmented
+    metrics:
+      - reports/augment_stats.json:
+          cache: false
+
+  featurize:
+    cmd: python src/featurize.py
+    deps:
+      - src/featurize.py
+      - src/common.py
+      - data/prepared
+      - data/augmented
+    params:
+      - featurize
+    outs:
+      - data/features
+
+  train:
+    cmd: python src/train.py
+    deps:
+      - src/train.py
+      - src/common.py
+      - data/features
+    params:
+      - base.seed
+      - train
+      - models
+    outs:
+      - models/model.pkl
+    metrics:
+      - reports/train_info.json:
+          cache: false
+
+  evaluate:
+    cmd: python src/evaluate.py
+    deps:
+      - src/evaluate.py
+      - src/common.py
+      - models/model.pkl
+      - data/features
+    metrics:
+      - reports/metrics.json:
+          cache: false
+    plots:
+      - reports/plots/confusion.json:
+          cache: false
+          template: confusion
+          x: actual
+          y: predicted
+      - reports/plots/roc.json:
+          cache: false
+          x: fpr
+          y: tpr
