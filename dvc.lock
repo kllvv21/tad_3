@@ -1,0 +1,188 @@
+schema: '2.0'
+stages:
+  prepare:
+    cmd: python src/prepare.py
+    deps:
+    - path: data/raw
+      hash: md5
+      md5: 6163e934612d5112921518f654bbf1ac.dir
+      size: 452697142
+      nfiles: 5000
+    - path: src/common.py
+      hash: md5
+      md5: 4a6d8050f79dff6ba5741db74ab5336e
+      size: 1113
+    - path: src/prepare.py
+      hash: md5
+      md5: a7bedbe724e1acd620ca45800d889486
+      size: 1494
+    params:
+      params.yaml:
+        prepare:
+          img_size: 128
+    outs:
+    - path: data/prepared
+      hash: md5
+      md5: aa00b4d11d68681b161470f9a21d47dd.dir
+      size: 209246787
+      nfiles: 3
+    - path: reports/data_stats.json
+      hash: md5
+      md5: 620e127e8bbed5a99a2bd010427ac4a4
+      size: 211
+  augment:
+    cmd: python src/augment.py
+    deps:
+    - path: data/prepared/train.npz
+      hash: md5
+      md5: 388b1f46060279cf0a4af28a873a5ed4
+      size: 125303425
+    - path: src/augment.py
+      hash: md5
+      md5: 16b2ce41c96dec8df811dd39e99ef6c8
+      size: 3574
+    - path: src/common.py
+      hash: md5
+      md5: 4a6d8050f79dff6ba5741db74ab5336e
+      size: 1113
+    params:
+      params.yaml:
+        augment:
+          copies: 2
+          max_rotation: 20
+          crop_scale_min: 0.75
+          brightness: 0.25
+          contrast: 0.25
+          saturation: 0.25
+          noise_std: 6.0
+          blur_prob: 0.3
+        base.seed: 42
+    outs:
+    - path: data/augmented
+      hash: md5
+      md5: 1dfc2e427394b20402dc7dfb30a3ae7e.dir
+      size: 58071416
+      nfiles: 6000
+    - path: reports/augment_stats.json
+      hash: md5
+      md5: dc641809f43752c1a3ff380823935323
+      size: 56
+  featurize:
+    cmd: python src/featurize.py
+    deps:
+    - path: data/augmented
+      hash: md5
+      md5: 1dfc2e427394b20402dc7dfb30a3ae7e.dir
+      size: 58071416
+      nfiles: 6000
+    - path: data/prepared
+      hash: md5
+      md5: aa00b4d11d68681b161470f9a21d47dd.dir
+      size: 209246787
+      nfiles: 3
+    - path: src/common.py
+      hash: md5
+      md5: 4a6d8050f79dff6ba5741db74ab5336e
+      size: 1113
+    - path: src/featurize.py
+      hash: md5
+      md5: 93923a389dbac3093a3d5abe4782244a
+      size: 2792
+    params:
+      params.yaml:
+        featurize:
+          hog_orientations: 9
+          hog_cell: 16
+          hog_block: 2
+          color_bins: 8
+          lbp_points: 8
+          lbp_radius: 1
+    outs:
+    - path: data/features
+      hash: md5
+      md5: 5aab0b1a2d6ce732e7fdee98608c700a.dir
+      size: 67540467
+      nfiles: 4
+  train:
+    cmd: python src/train.py
+    deps:
+    - path: data/features
+      hash: md5
+      md5: 5aab0b1a2d6ce732e7fdee98608c700a.dir
+      size: 67540467
+      nfiles: 4
+    - path: src/common.py
+      hash: md5
+      md5: 4a6d8050f79dff6ba5741db74ab5336e
+      size: 1113
+    - path: src/train.py
+      hash: md5
+      md5: dbd37a15f688678999cc3aca201f2d0f
+      size: 2923
+    params:
+      params.yaml:
+        base.seed: 42
+        models:
+          logreg:
+            C: 0.01
+            max_iter: 3000
+          svm:
+            C: 5.0
+            gamma: scale
+          rf:
+            n_estimators: 400
+            max_depth: 0
+            min_samples_leaf: 1
+          hgb:
+            learning_rate: 0.1
+            max_iter: 300
+            max_leaf_nodes: 31
+          knn:
+            n_neighbors: 5
+            weights: distance
+        train:
+          model: logreg
+          use_augmented: false
+          pca_components: 0
+    outs:
+    - path: models/model.pkl
+      hash: md5
+      md5: 5c7ac04650daa48cc857decdb0c690f0
+      size: 65465
+    - path: reports/train_info.json
+      hash: md5
+      md5: d8d3e7f7091ae7135f0e08edc40cb1fc
+      size: 116
+  evaluate:
+    cmd: python src/evaluate.py
+    deps:
+    - path: data/features
+      hash: md5
+      md5: 5aab0b1a2d6ce732e7fdee98608c700a.dir
+      size: 67540467
+      nfiles: 4
+    - path: models/model.pkl
+      hash: md5
+      md5: 5c7ac04650daa48cc857decdb0c690f0
+      size: 65465
+    - path: src/common.py
+      hash: md5
+      md5: 4a6d8050f79dff6ba5741db74ab5336e
+      size: 1113
+    - path: src/evaluate.py
+      hash: md5
+      md5: 5de42533c9b781666e238e3ec7f8139e
+      size: 2282
+    outs:
+    - path: reports/metrics.json
+      hash: md5
+      md5: 8c66118122a42e4855296c5b0fc5221e
+      size: 409
+    - path: reports/plots/confusion.json
+      hash: md5
+      md5: 138165ee1490f6d50ff53128d326f474
+      size: 59034
+    - path: reports/plots/roc.json
+      hash: md5
+      md5: a2a62c77ccfc82a6ed3c7e02dd8d12bd
+      size: 8704

@@ -43,5 +43,5 @@ models:
     max_iter: 300
     max_leaf_nodes: 31
   knn:
-    n_neighbors: 15
+    n_neighbors: 5
     weights: distance

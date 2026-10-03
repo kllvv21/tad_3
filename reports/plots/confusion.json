@@ -1,0 +1,4002 @@
+[
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "food"
+  },
+  {
+    "actual": "non_food",
+    "predicted": "non_food"
+  }
+]
