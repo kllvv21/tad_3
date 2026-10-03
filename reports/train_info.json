@@ -1,7 +1,7 @@
 {
-  "model": "logreg",
-  "use_augmented": false,
-  "n_train": 3000,
+  "model": "hgb",
+  "use_augmented": true,
+  "n_train": 9000,
   "n_features": 2298,
-  "train_time_sec": 0.31
+  "train_time_sec": 51.29
 }
