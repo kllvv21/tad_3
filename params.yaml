@@ -24,7 +24,7 @@ featurize:
 
 train:
   model: hgb             # logreg | svm | rf | hgb | knn
-  use_augmented: true    # обучаться на исходных (false) или исходных + аугментированных (true)
+  use_augmented: false   # обучаться на исходных (false) или исходных + аугментированных (true)
   pca_components: 0      # 0 — без PCA
 
 models:
