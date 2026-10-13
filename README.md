@@ -49,5 +49,5 @@ dvc plots diff hgb-base hgb-aug                 # графики ROC и матр
 dvc exp run -S train.model=svm -S models.svm.C=10   # новый эксперимент
 ```
 
-Эксперименты хранятся в git-ссылках `refs/exps/...`; чтобы они попали на GitHub:
+Эксперименты хранятся в git-ссылках `refs/exps/...`; чтобы они попали на GitLab:
 `dvc exp push origin --all` (или `git push origin 'refs/exps/*:refs/exps/*'`), получить — `dvc exp pull origin --all`.
