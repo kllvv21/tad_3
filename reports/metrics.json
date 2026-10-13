@@ -1,28 +1,28 @@
 {
   "val": {
-    "accuracy": 0.904,
-    "precision": 0.8855,
-    "recall": 0.928,
-    "f1": 0.9062,
-    "roc_auc": 0.9745
+    "accuracy": 0.909,
+    "precision": 0.9018,
+    "recall": 0.918,
+    "f1": 0.9098,
+    "roc_auc": 0.9626
   },
   "test": {
-    "accuracy": 0.906,
-    "precision": 0.9177,
-    "recall": 0.892,
-    "f1": 0.9047,
-    "roc_auc": 0.9693,
+    "accuracy": 0.889,
+    "precision": 0.9095,
+    "recall": 0.864,
+    "f1": 0.8862,
+    "roc_auc": 0.9528,
     "confusion_matrix": [
       [
-        460,
-        40
+        457,
+        43
       ],
       [
-        54,
-        446
+        68,
+        432
       ]
     ]
   },
-  "train_time_sec": 51.6,
+  "train_time_sec": 425.15,
   "n_train": 9000
 }
