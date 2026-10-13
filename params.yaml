@@ -23,7 +23,7 @@ featurize:
   lbp_radius: 1
 
 train:
-  model: hgb             # logreg | svm | rf | hgb | knn
+  model: knn             # logreg | svm | rf | hgb | knn
   use_augmented: true    # обучаться на исходных (false) или исходных + аугментированных (true)
   pca_components: 0      # 0 — без PCA
 

@@ -1,7 +1,7 @@
 {
-  "model": "hgb",
+  "model": "knn",
   "use_augmented": true,
   "n_train": 9000,
   "n_features": 2298,
-  "train_time_sec": 51.6
+  "train_time_sec": 0.18
 }
