@@ -5,13 +5,13 @@ stages:
     deps:
     - path: data/raw
       hash: md5
-      md5: 6163e934612d5112921518f654bbf1ac.dir
+      md5: 840fdb9a23c98313dde45246036c291f.dir
       size: 452697142
       nfiles: 5000
     - path: src/common.py
       hash: md5
-      md5: 4a6d8050f79dff6ba5741db74ab5336e
-      size: 1113
+      md5: 8ab475326f9cb544e82d27480172fdd7
+      size: 1740
     - path: src/prepare.py
       hash: md5
       md5: a7bedbe724e1acd620ca45800d889486
@@ -23,19 +23,19 @@ stages:
     outs:
     - path: data/prepared
       hash: md5
-      md5: aa00b4d11d68681b161470f9a21d47dd.dir
+      md5: cb2e7761478de76ac7e852cb39e3dd9f.dir
       size: 209246787
       nfiles: 3
     - path: reports/data_stats.json
       hash: md5
-      md5: 620e127e8bbed5a99a2bd010427ac4a4
-      size: 211
+      md5: a32763b390a1fee919fd47f8fc8db7ec
+      size: 227
   augment:
     cmd: python src/augment.py
     deps:
     - path: data/prepared/train.npz
       hash: md5
-      md5: 388b1f46060279cf0a4af28a873a5ed4
+      md5: ac67f14d43ff395bd33a087b5ffea7ae
       size: 125303425
     - path: src/augment.py
       hash: md5
@@ -43,8 +43,8 @@ stages:
       size: 3574
     - path: src/common.py
       hash: md5
-      md5: 4a6d8050f79dff6ba5741db74ab5336e
-      size: 1113
+      md5: 8ab475326f9cb544e82d27480172fdd7
+      size: 1740
     params:
       params.yaml:
         augment:
@@ -65,8 +65,8 @@ stages:
       nfiles: 6000
     - path: reports/augment_stats.json
       hash: md5
-      md5: dc641809f43752c1a3ff380823935323
-      size: 56
+      md5: fcc5a3bebc9f99642ed1902e113d23c3
+      size: 60
   featurize:
     cmd: python src/featurize.py
     deps:
@@ -77,13 +77,13 @@ stages:
       nfiles: 6000
     - path: data/prepared
       hash: md5
-      md5: aa00b4d11d68681b161470f9a21d47dd.dir
+      md5: cb2e7761478de76ac7e852cb39e3dd9f.dir
       size: 209246787
       nfiles: 3
     - path: src/common.py
       hash: md5
-      md5: 4a6d8050f79dff6ba5741db74ab5336e
-      size: 1113
+      md5: 8ab475326f9cb544e82d27480172fdd7
+      size: 1740
     - path: src/featurize.py
       hash: md5
       md5: 93923a389dbac3093a3d5abe4782244a
@@ -100,7 +100,7 @@ stages:
     outs:
     - path: data/features
       hash: md5
-      md5: 5aab0b1a2d6ce732e7fdee98608c700a.dir
+      md5: a660226177d176a7457ef368d8e06155.dir
       size: 67540467
       nfiles: 4
   train:
@@ -108,13 +108,13 @@ stages:
     deps:
     - path: data/features
       hash: md5
-      md5: 5aab0b1a2d6ce732e7fdee98608c700a.dir
+      md5: a660226177d176a7457ef368d8e06155.dir
       size: 67540467
       nfiles: 4
     - path: src/common.py
       hash: md5
-      md5: 4a6d8050f79dff6ba5741db74ab5336e
-      size: 1113
+      md5: 8ab475326f9cb544e82d27480172fdd7
+      size: 1740
     - path: src/train.py
       hash: md5
       md5: dbd37a15f688678999cc3aca201f2d0f
@@ -147,28 +147,28 @@ stages:
     outs:
     - path: models/model.pkl
       hash: md5
-      md5: 09d735b133a795faab101ef6964ea6c6
+      md5: d12de4cbc3db98a022e97e1b84d720be
       size: 5270189
     - path: reports/train_info.json
       hash: md5
-      md5: fdc571dd82115d04c1612905ebf38370
-      size: 113
+      md5: d7393df3ec6336c3f89a9ecdd62dda6e
+      size: 118
   evaluate:
     cmd: python src/evaluate.py
     deps:
     - path: data/features
       hash: md5
-      md5: 5aab0b1a2d6ce732e7fdee98608c700a.dir
+      md5: a660226177d176a7457ef368d8e06155.dir
       size: 67540467
       nfiles: 4
     - path: models/model.pkl
       hash: md5
-      md5: 09d735b133a795faab101ef6964ea6c6
+      md5: d12de4cbc3db98a022e97e1b84d720be
       size: 5270189
     - path: src/common.py
       hash: md5
-      md5: 4a6d8050f79dff6ba5741db74ab5336e
-      size: 1113
+      md5: 8ab475326f9cb544e82d27480172fdd7
+      size: 1740
     - path: src/evaluate.py
       hash: md5
       md5: 5de42533c9b781666e238e3ec7f8139e
@@ -176,13 +176,13 @@ stages:
     outs:
     - path: reports/metrics.json
       hash: md5
-      md5: dcebbb0c473859603b5cd1c570b6c42d
-      size: 413
+      md5: 311cf739e1634bc3141b1a44f0ce731a
+      size: 439
     - path: reports/plots/confusion.json
       hash: md5
-      md5: 57f5fcd365e5d8ad06147eda511489b6
-      size: 59058
+      md5: 3781fd5a51d05c4175ce4c2979075067
+      size: 63059
     - path: reports/plots/roc.json
       hash: md5
-      md5: 16cb07d96b49d46c35a3108685a29885
-      size: 5712
+      md5: 1754faf217d42441120cc38d3ce6ccef
+      size: 6237

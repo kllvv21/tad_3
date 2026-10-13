@@ -17,8 +17,22 @@ def load_params() -> dict:
 
 
 def label_from_name(path: Path) -> int:
-    """В Food-5K метка закодирована префиксом имени файла: 1_*.jpg — еда, 0_*.jpg — не еда."""
-    return int(path.name.split("_", 1)[0])
+    """Метка класса: 1 — еда, 0 — не еда.
+
+    Поддерживаются обе раскладки датасета Food-5K:
+      * имя файла с префиксом метки: 1_123.jpg / 0_45.jpg (оригинальный архив EPFL);
+      * каталог класса: .../food/123.jpg, .../non_food/45.jpg (версия на Kaggle).
+    """
+    for part in reversed(path.parts[:-1]):
+        name = part.lower().replace("-", "_")
+        if name in ("non_food", "nonfood"):
+            return 0
+        if name == "food":
+            return 1
+    prefix = path.name.split("_", 1)[0]
+    if "_" in path.name and prefix in ("0", "1"):
+        return int(prefix)
+    raise ValueError(f"Не удалось определить класс изображения: {path}")
 
 
 def list_images(folder: Path):
