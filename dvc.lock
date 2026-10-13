@@ -141,17 +141,17 @@ stages:
             n_neighbors: 5
             weights: distance
         train:
-          model: hgb
+          model: rf
           use_augmented: true
           pca_components: 0
     outs:
     - path: models/model.pkl
       hash: md5
-      md5: d12de4cbc3db98a022e97e1b84d720be
-      size: 5270189
+      md5: 14ed0521dcbf8be857a7b3719463b889
+      size: 42673017
     - path: reports/train_info.json
       hash: md5
-      md5: d7393df3ec6336c3f89a9ecdd62dda6e
+      md5: e3da0822371bf54b49abb40283bd1770
       size: 118
   evaluate:
     cmd: python src/evaluate.py
@@ -163,8 +163,8 @@ stages:
       nfiles: 4
     - path: models/model.pkl
       hash: md5
-      md5: d12de4cbc3db98a022e97e1b84d720be
-      size: 5270189
+      md5: 14ed0521dcbf8be857a7b3719463b889
+      size: 42673017
     - path: src/common.py
       hash: md5
       md5: 8ab475326f9cb544e82d27480172fdd7
@@ -176,13 +176,13 @@ stages:
     outs:
     - path: reports/metrics.json
       hash: md5
-      md5: 311cf739e1634bc3141b1a44f0ce731a
-      size: 439
+      md5: 47aaf7cdacd3aa61794049e22d1902cd
+      size: 436
     - path: reports/plots/confusion.json
       hash: md5
-      md5: 3781fd5a51d05c4175ce4c2979075067
-      size: 63059
+      md5: 7edb631f01925dd64e2936dc94f1f537
+      size: 62975
     - path: reports/plots/roc.json
       hash: md5
-      md5: 1754faf217d42441120cc38d3ce6ccef
-      size: 6237
+      md5: ab1dc5d6124b023b299e305a18197bb1
+      size: 9414
